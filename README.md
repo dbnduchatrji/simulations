@@ -1,4 +1,3 @@
-# numerical-methods-workspace
-fun stuff like ODE, PDE, Physics modelling
+# Physics + Python = Fun
 
 ![](/media/pen.gif)
