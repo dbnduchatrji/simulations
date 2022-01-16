@@ -1,2 +1,4 @@
 # numerical-methods-workspace
-ODE, PDE, Physics modelling
+fun stuff like ODE, PDE, Physics modelling
+
+![](/media/pen.gif)
