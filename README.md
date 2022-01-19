@@ -1,3 +1,3 @@
-# Physics + Python = Fun
+# Physics + Maths + Programming = Fun
 
 ![](/media/pen.gif)
