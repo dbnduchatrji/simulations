@@ -1,3 +1,3 @@
-# Physics + Maths + Programming = Fun
+# Physics + Computing = Fun
 
 ![](/media/pen.gif)
