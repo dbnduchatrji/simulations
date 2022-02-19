@@ -1,4 +1,4 @@
 # Physics + Computing = Fun
 
-## Double spring pendulum
+### Double spring pendulum
 ![](/media/pen.gif)
